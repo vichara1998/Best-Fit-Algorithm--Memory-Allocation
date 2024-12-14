@@ -4,14 +4,14 @@ This project is a Java Swing application that demonstrates the **Best Fit Memory
 
 ## Features
 
-- **Dynamic User Input**: Accepts memory block and job sizes via a user-friendly interface.
-- **Visualization**: Displays the allocation process and results in a formatted table.
-- **Reset Functionality**: Allows users to clear inputs and start fresh.
-- **Error Handling**: Detects and informs users of invalid inputs.
+- **Dynamic User Input**- ***Accepts memory block and job sizes via a user-friendly interface.***
+- **Visualization**- ***Displays the allocation process and results in a formatted table.***
+- **Reset Functionality**- ***Allows users to clear inputs and start fresh.***
+- **Error Handling**- ***Detects and informs users of invalid inputs.***
 
 ## Prerequisites
 
-- **Java Development Kit (JDK)**: Version 8 or higher.
+- **Java Development Kit (JDK)**- Version 8 or higher.
 - An IDE or text editor such as **Visual Studio Code** or **IntelliJ IDEA**.
 
 ## How to Run
